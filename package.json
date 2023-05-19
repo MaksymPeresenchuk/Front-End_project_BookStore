@@ -1,7 +1,7 @@
 {
   "name": "maksimBooks",
   "version": "0.1.0",
-  "homepage": "https://kruzhambus.github.io/book-store/",
+  "homepage": "https://github.com/MaksymPeresenchuk/Front-End_project_BookStore",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",

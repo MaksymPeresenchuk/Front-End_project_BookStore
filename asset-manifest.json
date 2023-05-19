@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/book-store/static/css/main.a3e2cd23.css",
-    "main.js": "/book-store/static/js/main.7356abcd.js",
-    "static/js/496.8d1a0327.chunk.js": "/book-store/static/js/496.8d1a0327.chunk.js",
-    "index.html": "/book-store/index.html",
-    "main.a3e2cd23.css.map": "/book-store/static/css/main.a3e2cd23.css.map",
-    "main.7356abcd.js.map": "/book-store/static/js/main.7356abcd.js.map",
-    "496.8d1a0327.chunk.js.map": "/book-store/static/js/496.8d1a0327.chunk.js.map"
+    "main.css": "/MaksymPeresenchuk/Front-End_project_BookStore/static/css/main.a3e2cd23.css",
+    "main.js": "/MaksymPeresenchuk/Front-End_project_BookStore/static/js/main.c8591f15.js",
+    "static/js/496.8d1a0327.chunk.js": "/MaksymPeresenchuk/Front-End_project_BookStore/static/js/496.8d1a0327.chunk.js",
+    "index.html": "/MaksymPeresenchuk/Front-End_project_BookStore/index.html",
+    "main.a3e2cd23.css.map": "/MaksymPeresenchuk/Front-End_project_BookStore/static/css/main.a3e2cd23.css.map",
+    "main.c8591f15.js.map": "/MaksymPeresenchuk/Front-End_project_BookStore/static/js/main.c8591f15.js.map",
+    "496.8d1a0327.chunk.js.map": "/MaksymPeresenchuk/Front-End_project_BookStore/static/js/496.8d1a0327.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3e2cd23.css",
-    "static/js/main.7356abcd.js"
+    "static/js/main.c8591f15.js"
   ]
 }
